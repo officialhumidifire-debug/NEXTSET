@@ -1,5 +1,4 @@
-[NextSet.html](https://github.com/user-attachments/files/25802224/NextSet.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
